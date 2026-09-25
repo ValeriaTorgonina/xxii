@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "low-energy-log",
-    "slug": "low-energy-log",
+    "name": "XXII",
+    "slug": "xxii",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "lowenergylog",
+    "scheme": "xxii",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
