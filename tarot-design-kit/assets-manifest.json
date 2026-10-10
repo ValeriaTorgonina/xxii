@@ -1,0 +1,398 @@
+[
+  {
+    "id": "00",
+    "role": "day",
+    "path": "assets/cards/day/00.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "bb1c213ff7739ab79e62e1ac7d441aa632a1eabe3e20da81ee3eafcf82292226"
+  },
+  {
+    "id": "01",
+    "role": "day",
+    "path": "assets/cards/day/01.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "5c8d85178ffd462705b8c8a6acdb46efd95e5699ebbd8e0b1006a8eaa6356f36"
+  },
+  {
+    "id": "02",
+    "role": "day",
+    "path": "assets/cards/day/02.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "0230fc839eca76f6339d806ead06fe53bfb22d5515b107de7912525cd767b7c0"
+  },
+  {
+    "id": "03",
+    "role": "day",
+    "path": "assets/cards/day/03.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "2da9046054db45c578a51f83c86de1c5fa1b87501a7620456f7a13776c99da09"
+  },
+  {
+    "id": "04",
+    "role": "day",
+    "path": "assets/cards/day/04.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "0280c88ee783c8fb5c8827886049bb0199ff6a050aca05aa1190642051e8ea7a"
+  },
+  {
+    "id": "05",
+    "role": "day",
+    "path": "assets/cards/day/05.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "81efedc1969947fb233f62a7aad21ad33e12ad7368a6ef084044050f79261a84"
+  },
+  {
+    "id": "06",
+    "role": "day",
+    "path": "assets/cards/day/06.png",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true,
+    "sha256": "00d59dc52efe12cb074964ce2870160646dde3e24c155f3eb3fbdd8b1cb4b95f"
+  },
+  {
+    "id": "07",
+    "role": "day",
+    "path": "assets/cards/day/07.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "713701161c50630524b64bcd00983b3c4fc2d3bc3b9f8f097cbf2a7954f19446"
+  },
+  {
+    "id": "08",
+    "role": "day",
+    "path": "assets/cards/day/08.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "5fc4a64dabdae042299ce4815446c3102a81152c474b5194a4350b0e1bb2423f"
+  },
+  {
+    "id": "09",
+    "role": "day",
+    "path": "assets/cards/day/09.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "af112076cd6c14c0f7f77340e1ee5a78ee7b069281669be4f66491965de3925a"
+  },
+  {
+    "id": "10",
+    "role": "day",
+    "path": "assets/cards/day/10.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "2d614f0779dc3675bc7cec4dcecdecdab6f779f44901036f3b1f3061ab9a73cf"
+  },
+  {
+    "id": "11",
+    "role": "day",
+    "path": "assets/cards/day/11.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "945f776d1b15b35cad479ca0ab05b52bfeb90c2f17e353c6cff194b1bafc86b8"
+  },
+  {
+    "id": "12",
+    "role": "day",
+    "path": "assets/cards/day/12.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "ca8cf4287025464bc659871d7a83b3c8e46ad20c0fd8129e304e14c0c5a6bb99"
+  },
+  {
+    "id": "13",
+    "role": "day",
+    "path": "assets/cards/day/13.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "9aff09a3db4338adbd67aa200e84893ca45f7549a2b0ff88602d908563421933"
+  },
+  {
+    "id": "14",
+    "role": "day",
+    "path": "assets/cards/day/14.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "a20c0b5ad6d3736ebf841a5fd459858f87fddf962e031b6163fe6fd62f6098b8"
+  },
+  {
+    "id": "15",
+    "role": "day",
+    "path": "assets/cards/day/15.png",
+    "width": 1223,
+    "height": 1286,
+    "alpha": true,
+    "sha256": "1e52ae1d155ba3c42291bd4bfc9488535647404ebd91b4c3207e446299b1311e"
+  },
+  {
+    "id": "16",
+    "role": "day",
+    "path": "assets/cards/day/16.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "58c753c1b1807634808b9b90f9b301f0d0536276ca94d3b33facddda7059e322"
+  },
+  {
+    "id": "17",
+    "role": "day",
+    "path": "assets/cards/day/17.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "faa4c65eb507e2ab72cfefd2b479d0013f8dc96c85395e517e7178af2fec117f"
+  },
+  {
+    "id": "18",
+    "role": "day",
+    "path": "assets/cards/day/18.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "f933ac60ed8512e32563ac34dc7af6c51fabc63766dd38a9887984fbeb0eaa51"
+  },
+  {
+    "id": "19",
+    "role": "day",
+    "path": "assets/cards/day/19.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "6e7fdf27be7e8a9e9b43aaf662c1d4a344b8a8d38674039e8d4a893e43879146"
+  },
+  {
+    "id": "20",
+    "role": "day",
+    "path": "assets/cards/day/20.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "a9785b96080f5822131ceffefa82a7f3c3d01fce2c7ee03494a189c3e9248b23"
+  },
+  {
+    "id": "21",
+    "role": "day",
+    "path": "assets/cards/day/21.png",
+    "width": 1122,
+    "height": 1402,
+    "alpha": true,
+    "sha256": "d4e404ad7da1e4f709daa9de9edbb105ec3891359838346d9f1c1c7ef7b405cb"
+  },
+  {
+    "id": "00",
+    "role": "list",
+    "path": "assets/cards/list/00.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "f5882f63378eabeddf186cd4681b64aeef50cee1c2894e85e6be19358f536ffc"
+  },
+  {
+    "id": "01",
+    "role": "list",
+    "path": "assets/cards/list/01.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "db058ef35285ff522b7270e31892cceac15e708664c808ea6900a60b1899c506"
+  },
+  {
+    "id": "02",
+    "role": "list",
+    "path": "assets/cards/list/02.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "b28b8e18d2f5d11d2f6083a7d04825c3732c7965d06c5cb9ec6a9b65fb95d20e"
+  },
+  {
+    "id": "03",
+    "role": "list",
+    "path": "assets/cards/list/03.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "512d0e432bfc916cc01a07566778dc9d62134621679c1384c3a0ca4b065f4596"
+  },
+  {
+    "id": "04",
+    "role": "list",
+    "path": "assets/cards/list/04.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "86db7c8d5934611fffa2e26b35a383346fcb0f34f6d9b2769129d8ace0e7d9ef"
+  },
+  {
+    "id": "05",
+    "role": "list",
+    "path": "assets/cards/list/05.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "999d3ec047704cbc0057e551c82c1ec8c587bea2072ece7e43611fa6054483db"
+  },
+  {
+    "id": "06",
+    "role": "list",
+    "path": "assets/cards/list/06.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "4b9c4f975fb623b5ddde5c17cfd8801dcfda81838ec4e919c74dcc92dd5d3570"
+  },
+  {
+    "id": "07",
+    "role": "list",
+    "path": "assets/cards/list/07.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "d985589a79245f637fade0499f965fa95dab78b92c7506273c676a94e3fd39d6"
+  },
+  {
+    "id": "08",
+    "role": "list",
+    "path": "assets/cards/list/08.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "4d934873da9950cb93558e248d71725b3a9b7579bd75db015fc46441fb612ec1"
+  },
+  {
+    "id": "09",
+    "role": "list",
+    "path": "assets/cards/list/09.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "7e2f57446e727e6eb32baa6fb9ee15e525d221dcdf390cd8cebdfc284e5b002c"
+  },
+  {
+    "id": "10",
+    "role": "list",
+    "path": "assets/cards/list/10.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "352add80eeee54f62ad2a5ce6032b50ac15b63fb17a15585e91fe648da6d7237"
+  },
+  {
+    "id": "11",
+    "role": "list",
+    "path": "assets/cards/list/11.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "e9ff7296f534dbb3ae0c8f5b49da58cc90e7d79f4370120c1f617ba54e713987"
+  },
+  {
+    "id": "12",
+    "role": "list",
+    "path": "assets/cards/list/12.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "0ba02a288184510ff1a61cb963a8bc3f6d97bab71e49b0484ccd179f5cdf7943"
+  },
+  {
+    "id": "13",
+    "role": "list",
+    "path": "assets/cards/list/13.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "c9db4604f1368fb28ec58f6c1ff5a12fe04965d4bada435bf0e568e6e5cd98be"
+  },
+  {
+    "id": "14",
+    "role": "list",
+    "path": "assets/cards/list/14.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "fd26c527b5969c23629e550b1f2063c75ef08d0eeaa7e8809067e195a884ce65"
+  },
+  {
+    "id": "15",
+    "role": "list",
+    "path": "assets/cards/list/15.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "b24c18de27b1715fc2c1a696879d284fc5e22b1ef8531a8df335a13f99401026"
+  },
+  {
+    "id": "16",
+    "role": "list",
+    "path": "assets/cards/list/16.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "33c090f5d4db866281a161e70c471e619233b46fd6a3beda60196b8bd3db6c6e"
+  },
+  {
+    "id": "17",
+    "role": "list",
+    "path": "assets/cards/list/17.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "cc17a6b45fae018e299d98a7608ad8fa4e959446e01d5b55238f8b413b3601a9"
+  },
+  {
+    "id": "18",
+    "role": "list",
+    "path": "assets/cards/list/18.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "0e9c95aaecde206cd31fb2e587bbeb6a897cac8c8d4bb49b23ba75dcb3982077"
+  },
+  {
+    "id": "19",
+    "role": "list",
+    "path": "assets/cards/list/19.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "2169e5aafe759db35be1f12bfb9866ebba0ea6459187ae6d3cfb4e9c96716eb4"
+  },
+  {
+    "id": "20",
+    "role": "list",
+    "path": "assets/cards/list/20.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "081d634332d55168a50eb2568fcccd688c5ff07825ac376cd49452b373182b8b"
+  },
+  {
+    "id": "21",
+    "role": "list",
+    "path": "assets/cards/list/21.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "sha256": "ee15667619c26762904ef4152fe54c84bc311981c1562e51181fdb0239de37f3"
+  }
+]

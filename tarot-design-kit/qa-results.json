@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "images": {
+    "count": 44,
+    "bad": []
+  },
+  "layouts": [
+    320,
+    390,
+    430,
+    768
+  ],
+  "checks": [
+    "search",
+    "empty/reset",
+    "all filter groups",
+    "dialog/Escape",
+    "tabs/keyboard",
+    "practice/reveal/next",
+    "all 22 daily variants at 4 widths",
+    "no horizontal overflow",
+    "reduced motion"
+  ],
+  "errors": []
+}

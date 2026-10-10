@@ -1,0 +1,1 @@
+export { TarotCatalog } from './TarotCatalog';

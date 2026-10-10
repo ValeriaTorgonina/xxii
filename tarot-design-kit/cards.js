@@ -1,0 +1,222 @@
+window.TAROT_CARDS = [
+  {
+    "id": "00",
+    "index": 0,
+    "roman": "0",
+    "name": "Шут",
+    "subtitle": "начало пути",
+    "question": "Где ты готова сделать первый шаг?",
+    "day": "assets/cards/day/00.png",
+    "list": "assets/cards/list/00.png"
+  },
+  {
+    "id": "01",
+    "index": 1,
+    "roman": "I",
+    "name": "Маг",
+    "subtitle": "воля и мастерство",
+    "question": "Какую идею пора воплотить?",
+    "day": "assets/cards/day/01.png",
+    "list": "assets/cards/list/01.png"
+  },
+  {
+    "id": "02",
+    "index": 2,
+    "roman": "II",
+    "name": "Жрица",
+    "subtitle": "интуиция",
+    "question": "Что подсказывает твоя интуиция?",
+    "day": "assets/cards/day/02.png",
+    "list": "assets/cards/list/02.png"
+  },
+  {
+    "id": "03",
+    "index": 3,
+    "roman": "III",
+    "name": "Императрица",
+    "subtitle": "рост и забота",
+    "question": "Чему сейчас нужны забота и время?",
+    "day": "assets/cards/day/03.png",
+    "list": "assets/cards/list/03.png"
+  },
+  {
+    "id": "04",
+    "index": 4,
+    "roman": "IV",
+    "name": "Император",
+    "subtitle": "структура",
+    "question": "Где тебе нужна ясная структура?",
+    "day": "assets/cards/day/04.png",
+    "list": "assets/cards/list/04.png"
+  },
+  {
+    "id": "05",
+    "index": 5,
+    "roman": "V",
+    "name": "Иерофант",
+    "subtitle": "традиции и знание",
+    "question": "Какие убеждения ты выбираешь сама?",
+    "day": "assets/cards/day/05.png",
+    "list": "assets/cards/list/05.png"
+  },
+  {
+    "id": "06",
+    "index": 6,
+    "roman": "VI",
+    "name": "Влюблённые",
+    "subtitle": "выбор и союз",
+    "question": "Какой выбор соответствует твоим ценностям?",
+    "day": "assets/cards/day/06.png",
+    "list": "assets/cards/list/06.png"
+  },
+  {
+    "id": "07",
+    "index": 7,
+    "roman": "VII",
+    "name": "Колесница",
+    "subtitle": "направление и движение",
+    "question": "Куда ты направляешь свою энергию?",
+    "day": "assets/cards/day/07.png",
+    "list": "assets/cards/list/07.png"
+  },
+  {
+    "id": "08",
+    "index": 8,
+    "roman": "VIII",
+    "name": "Сила",
+    "subtitle": "мягкая сила",
+    "question": "Где мягкость поможет больше, чем давление?",
+    "day": "assets/cards/day/08.png",
+    "list": "assets/cards/list/08.png"
+  },
+  {
+    "id": "09",
+    "index": 9,
+    "roman": "IX",
+    "name": "Отшельник",
+    "subtitle": "внутренний поиск",
+    "question": "Какой вопрос стоит обдумать без внешнего шума?",
+    "day": "assets/cards/day/09.png",
+    "list": "assets/cards/list/09.png"
+  },
+  {
+    "id": "10",
+    "index": 10,
+    "roman": "X",
+    "name": "Колесо Фортуны",
+    "subtitle": "циклы и перемены",
+    "question": "Что меняется независимо от твоего контроля?",
+    "day": "assets/cards/day/10.png",
+    "list": "assets/cards/list/10.png"
+  },
+  {
+    "id": "11",
+    "index": 11,
+    "roman": "XI",
+    "name": "Справедливость",
+    "subtitle": "равновесие и ответственность",
+    "question": "Какое решение будет честным?",
+    "day": "assets/cards/day/11.png",
+    "list": "assets/cards/list/11.png"
+  },
+  {
+    "id": "12",
+    "index": 12,
+    "roman": "XII",
+    "name": "Повешенный",
+    "subtitle": "смена взгляда",
+    "question": "На что стоит посмотреть с другой стороны?",
+    "day": "assets/cards/day/12.png",
+    "list": "assets/cards/list/12.png"
+  },
+  {
+    "id": "13",
+    "index": 13,
+    "roman": "XIII",
+    "name": "Смерть",
+    "subtitle": "завершение и обновление",
+    "question": "Что пора отпустить, чтобы двигаться дальше?",
+    "day": "assets/cards/day/13.png",
+    "list": "assets/cards/list/13.png"
+  },
+  {
+    "id": "14",
+    "index": 14,
+    "roman": "XIV",
+    "name": "Умеренность",
+    "subtitle": "мера и гармония",
+    "question": "Где тебе не хватает равновесия?",
+    "day": "assets/cards/day/14.png",
+    "list": "assets/cards/list/14.png"
+  },
+  {
+    "id": "15",
+    "index": 15,
+    "roman": "XV",
+    "name": "Дьявол",
+    "subtitle": "привязанности и искушение",
+    "question": "Что ограничивает твою свободу?",
+    "day": "assets/cards/day/15.png",
+    "list": "assets/cards/list/15.png"
+  },
+  {
+    "id": "16",
+    "index": 16,
+    "roman": "XVI",
+    "name": "Башня",
+    "subtitle": "разрушение старого",
+    "question": "Какая привычная опора требует пересмотра?",
+    "day": "assets/cards/day/16.png",
+    "list": "assets/cards/list/16.png"
+  },
+  {
+    "id": "17",
+    "index": 17,
+    "roman": "XVII",
+    "name": "Звезда",
+    "subtitle": "надежда и вдохновение",
+    "question": "Что возвращает тебе надежду?",
+    "day": "assets/cards/day/17.png",
+    "list": "assets/cards/list/17.png"
+  },
+  {
+    "id": "18",
+    "index": 18,
+    "roman": "XVIII",
+    "name": "Луна",
+    "subtitle": "неясность и подсознание",
+    "question": "Где тебе пока не хватает ясности?",
+    "day": "assets/cards/day/18.png",
+    "list": "assets/cards/list/18.png"
+  },
+  {
+    "id": "19",
+    "index": 19,
+    "roman": "XIX",
+    "name": "Солнце",
+    "subtitle": "ясность и радость",
+    "question": "Что приносит тебе радость?",
+    "day": "assets/cards/day/19.png",
+    "list": "assets/cards/list/19.png"
+  },
+  {
+    "id": "20",
+    "index": 20,
+    "roman": "XX",
+    "name": "Суд",
+    "subtitle": "пробуждение",
+    "question": "На какой внутренний зов стоит ответить?",
+    "day": "assets/cards/day/20.png",
+    "list": "assets/cards/list/20.png"
+  },
+  {
+    "id": "21",
+    "index": 21,
+    "roman": "XXI",
+    "name": "Мир",
+    "subtitle": "целостность",
+    "question": "Какой этап ты готова завершить?",
+    "day": "assets/cards/day/21.png",
+    "list": "assets/cards/list/21.png"
+  }
+];

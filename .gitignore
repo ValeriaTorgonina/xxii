@@ -44,3 +44,6 @@ app-example
 # generated native folders
 /ios
 /android
+
+# Local browser verification logs
+.playwright-mcp/
