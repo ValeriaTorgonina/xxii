@@ -4,6 +4,8 @@ XXII is a tarot study app focused on the 22 major arcana.
 
 The interface uses the supplied Antique Gold tarot design kit, local fonts and all 44 card illustrations. See the [integration guide](docs/design-kit-integration.md) and [verification results](docs/design-kit-qa.md).
 
+An optional rewarded-ad prototype unlocks a two-card comparison in native development builds. See [advertising setup and release prerequisites](docs/advertising.md). It uses test ads only; production ads are disabled.
+
 ## Features
 
 - Scrollable catalog of all major arcana with a compact daily card.

@@ -5,6 +5,7 @@ import { PanelFrame } from '@/shared/components/Decoration';
 import { colors } from '@/shared/constants/colors';
 import { theme } from '@/shared/constants/theme';
 import type { useCatalog } from '../../hooks/useCatalog';
+import { RewardedComparison } from '@/src/modules/rewardedPractice/public';
 
 export function Practice({ state }: { state: ReturnType<typeof useCatalog> }) {
   const { practiceCard: card, orientation, isAnswerVisible, setIsAnswerVisible, nextPracticeCard } = state;
@@ -30,6 +31,7 @@ export function Practice({ state }: { state: ReturnType<typeof useCatalog> }) {
       {isAnswerVisible ? 'Скрыть ответ' : 'Показать ответ'}
     </KitButton>
     <KitButton onPress={nextPracticeCard}>Следующая</KitButton>
+    <RewardedComparison state={state.comparison} />
   </View>;
 }
 const styles = StyleSheet.create({

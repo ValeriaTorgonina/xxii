@@ -1,10 +1,12 @@
 import { useMemo, useState } from 'react';
 import { MAJOR_ARCANA } from '@/lib/tarot-data';
 import { GROUPS } from '../constants/groups';
+import { useRewardedComparison } from '@/src/modules/rewardedPractice/public';
 type Mode = 'learn' | 'practice';
 type Orientation = 'upright' | 'reversed';
 
 export function useCatalog() {
+  const comparison = useRewardedComparison();
   const [mode, setMode] = useState<Mode>('learn');
   const [query, setQuery] = useState('');
   const [group, setGroup] = useState<(typeof GROUPS)[number]['key']>('all');
@@ -48,5 +50,5 @@ export function useCatalog() {
     setIsAnswerVisible(false);
   };
 
-  return { mode, setMode, query, setQuery, group, setGroup, filteredCards, dayCard, practiceCard, orientation, isAnswerVisible, setIsAnswerVisible, nextPracticeCard };
+  return { mode, setMode, query, setQuery, group, setGroup, filteredCards, dayCard, practiceCard, orientation, isAnswerVisible, setIsAnswerVisible, nextPracticeCard, comparison };
 }
